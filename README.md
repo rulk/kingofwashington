@@ -1,7 +1,11 @@
+# [PLAY GAME](https://rulk.github.io/kingofwashington/)
+
+[logo]: https://rulk.github.io/kingofwashington/main_pictire.png
+
 # About
 This was a small project developed over two days during GGJ 2015
 
-## Team:
+##Team:
 * Сергей Лопарев
 * Phoenix849
 * Leonid Sinyakov
