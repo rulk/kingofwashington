@@ -1,0 +1,1 @@
+[{"name":"27","texts":[{"presenter":"paper","text_ru":"Ваше величество, Мерлин прочитал комикс про себя. Долго плакал.","text_en":"","shortreply_ru":"","shortreply_en":""}],"replies":[{"text_ru":"Далее.","text_en":"","goto":"","money":0,"nobility":0,"merlin":-10,"un":0,"dragon":0,"peasant":0}]}]

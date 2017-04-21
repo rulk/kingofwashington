@@ -1,0 +1,1 @@
+[{"name":"Трактор","texts":[{"presenter":"paper","text_ru":"Ваше величество, крестьянам показали как пользоваться трактором. ","text_en":"","shortreply_ru":"","shortreply_en":""}],"replies":[{"text_ru":"Далее","text_en":"","goto":"","money":100,"nobility":0,"merlin":0,"un":0,"dragon":0,"peasant":10}]}]

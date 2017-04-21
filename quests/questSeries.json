@@ -1,0 +1,54 @@
+{
+  "question_1":
+  {
+    "texts":
+    [
+      {
+        "text":"Welcome to the land of tomorrow!",
+        "presenter":"merlin"
+      },
+      {
+        "text":"Welcome to the land of tomorrow!",
+        "presenter":"un"
+      }
+    ],
+    "replies":
+    [
+      {
+        "text":"Ok send them there!",
+        "money":-100,
+        "un":20
+      },
+      {
+        "text":"Kill them All!",
+        "goto":"question_2"
+      }
+    ]
+  },
+  "question_2":
+  {
+     "texts":
+    [
+      {
+        "text":"Welcome to the land of tomorrow!",
+        "presenter":"merlin"
+      },
+      {
+        "text":"Welcome to the land of tomorrow!",
+        "presenter":"un"
+      }
+    ],
+    "replies":
+    [
+      {
+        "text":"Ok send them there!",
+        "money":-100,
+        "un":20
+      },
+      {
+        "text":"Kill them All!",
+        "goto":"question_2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "1":{
+    "type":"tutorial"
+  },
+  "2":{
+    "trigger":"tutorial"
+  },
+  "3":{
+    "type":"tutorial"
+  },
+  "4":{
+    "type":"tutorial"
+  }
+}

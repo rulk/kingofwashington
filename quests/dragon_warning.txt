@@ -1,0 +1,1 @@
+[{"name":"dragon_warning","texts":[{"presenter":"paper","text_ru":"“Новость ваше величество, дракон передает, что еще немного и он прилетит чтобы сжечь вас за нападения на него”.","text_en":"","shortreply_ru":"","shortreply_en":""}],"replies":[]}]

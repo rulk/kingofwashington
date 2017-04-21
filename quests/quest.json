@@ -1,0 +1,38 @@
+{
+  "quests":{
+
+    "Question_1":{
+    "text":"textHere",
+    "visitor":"merlin",
+
+    "answers":[
+      {
+      "text":"AnswerText",
+      "goTo":"Question_2"
+      },
+      {
+      "text":"AnswerText",
+      "money":20,
+      "pesants":-30,
+      "un":-100
+      }]
+    },
+    "Question_2":{
+    "text":"textHere",
+    "visitor":"merlin",
+
+    "answers":[
+      {
+      "text":"AnswerText",
+      "goTo":"Question_2"
+      },
+      {
+      "text":"AnswerText",
+      "money":20,
+      "pesants":-30,
+      "un":-100
+      }]
+    }
+
+  }
+}

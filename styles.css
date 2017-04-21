@@ -1,0 +1,57 @@
+#greeting {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+  margin: 15px;
+}
+/* unvisited link */
+a:link {
+    color: #aaaaaa;
+}
+
+/* visited link */
+a:visited {
+    color: #aaaaaa;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ffffff;
+}
+
+/* selected link */
+a:active {
+    color: #aaaaaa;
+}
+p
+{
+  font-family:Tahoma, Geneva, sans-serif;
+}
+.bwrap
+{
+  width:800px;
+  margin:auto;
+}
+.soundMute
+{
+  background-image:url(button-sound-on.png);
+  width:48px;
+  height:48px;
+  margin:auto;
+  position:absolute;
+  margin-left:800px;
+  margin-top:0px;
+}
+.soundMute:hover
+{
+  background-image:url(button-sound-on-hover.png);
+}
+.soundMuteOFF
+{
+  background-image:url(button-sound-off.png);
+
+}
+.soundMuteOFF:hover
+{
+  background-image:url(button-sound-off-hover.png);
+}

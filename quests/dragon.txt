@@ -1,0 +1,1 @@
+[{"name":"dragon","texts":[{"presenter":"paper","text_ru":"“Срочная новость. Дракон рассвирепел и летит сюда, чтобы сжечь вас.”","text_en":"","shortreply_ru":"Дракон сжег вас своим ужасающим пламенем.","shortreply_en":""}],"replies":[]}]
